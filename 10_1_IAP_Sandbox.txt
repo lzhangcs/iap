@@ -1,3 +1,0 @@
-下面是CP的问题，如果我们现在没有这个feature， 以后有计划开发这个功能吗？谢谢
-
- “Is there a way to create a separate App secret key for sandbox mode only, inside the same app?This is something we need to do in order to have Sandbox and Live mode separate with keys.”
