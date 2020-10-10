@@ -1,0 +1,10 @@
+
+10/1/2020
+下面是CP的问题，如果我们现在没有这个feature， 以后有计划开发这个功能吗？谢谢
+
+ “Is there a way to create a separate App secret key for sandbox mode only, inside the same app?This is something we need to do in order to have Sandbox and Live mode separate with keys.”
+
+=============================================================================
+10/9/2020
+
+你好， CP问这个问题是因为他们在开发后期测试阶段非常需要把两者分开，所以在问有无这个功能。他们用的是IAP中的subscription 部分。谢谢。
