@@ -1,0 +1,4 @@
+你好， 下面是CP的问题, 谢谢帮助:
+
+
+"also i have a question, is there a feed when something is changed on HUAWEI side (API, Webhook,..) Actually any change that can potentially break things? I am going to guess it goes to some email, just curious if there is some other channel for it and which email that notification uses?"
