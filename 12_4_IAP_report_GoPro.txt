@@ -1,0 +1,5 @@
+你好， 代CP提问， 问题如下， 谢谢帮助。
+
+1) What reports are available for reconciling subscriptions? Does that include an identifier for the user to tie it back to the original purchase? 
+2) Is there an automated way of retrieving these reports? 
+3) What is the frequency of these reports? 
